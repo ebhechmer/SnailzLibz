@@ -1,0 +1,21 @@
+#storyText {
+    display:none;
+}
+/* .buttonStyle {
+    width : 60px;
+    height : 20px;
+    }
+a.buttonStyle:hover {
+    background: rgb(30, 253, 30);
+} */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    min-height: 100vh;
+    background-color: black;
+}

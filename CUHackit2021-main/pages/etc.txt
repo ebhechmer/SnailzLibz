@@ -1,0 +1,13 @@
+      {/* <section id="hero" class="h-screen bg-red-600 text-white text-center grid place-items-center">
+                <div>
+                    <p class="text-lg font-bold italic uppercase tracking-wider">It’s Jake from</p>
+                    <h1 class="font-bold text-8xl leading-one">State Farm</h1>
+                    <p class="font-mono text-lg">Communication · Human-Centered Computing</p>
+                    <a
+                        href="https://www.linkedin.com/mynetwork/"
+                        rel="noopener noreferrer"
+                        target="_blank"
+                        class="mt-10 bg-white rounded-lg px-8 py-4 text-black inline-block"
+                    >Connect</a>
+                </div>
+            </section> */}
